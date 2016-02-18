@@ -3,9 +3,10 @@ Talks, slides, assets for presenting information about free software photography
 
 ## Upcoming
 List of upcoming presentations/talks
-* [Libre Graphics Meeting 2016 - _PIXLS.US – Building a Freedom Based Photography Community_](/LGM2016_PIXLS.US/)
+* [LGM2016 - _PIXLS.US – Building a Freedom Based Photography Community_](/LGM2016_PIXLS.US/)
     * [website](http://www.libregraphicsmeeting.org/2016/)
     * [proposal](/LGM2016_PIXLS.US/proposal.md)
+    * status: accepted
 
 
 ## Delivered

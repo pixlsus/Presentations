@@ -1,10 +1,9 @@
-# Libre Graphics Meeting 2016 London
-
-April 15-18, 2016  
-University of Westminster, Harrow, London  
+Event: Libre Graphics Meeting 2016  
+Date: April 15-18, 2016  
+Location: University of Westminster, Harrow, London  
 http://www.libregraphicsmeeting.org/2016/
-
 Time: 20min
+
 
 ## PIXLS.US – Building a Freedom Based Photography Community
 

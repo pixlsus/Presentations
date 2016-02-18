@@ -4,6 +4,8 @@ Talks, slides, assets for presenting information about free software photography
 ## Upcoming
 List of upcoming presentations/talks
 * [LGM2016 - _PIXLS.US – Building a Freedom Based Photography Community_](/LGM2016_PIXLS.US/)
+    * April 15-18, 2016
+    * University of Westminster, Harrow, London
     * [website](http://www.libregraphicsmeeting.org/2016/)
     * [proposal](/LGM2016_PIXLS.US/proposal.md)
     * status: accepted

@@ -1,7 +1,7 @@
 Event: Libre Graphics Meeting 2016  
 Date: April 15-18, 2016  
 Location: University of Westminster, Harrow, London  
-http://www.libregraphicsmeeting.org/2016/
+http://www.libregraphicsmeeting.org/2016/  
 Time: 20min
 
 

@@ -10,4 +10,4 @@ Talks, slides, assets for presenting information about free software photography
 
 
 ## Upcoming
-<small>List of upcoming presentations/talks</small>
+List of upcoming presentations/talks

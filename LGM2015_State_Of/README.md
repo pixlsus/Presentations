@@ -6,7 +6,24 @@ These were the last set of slides in the presentation ([pdf][] or at [24:38 in t
 [pdf]: http://video.constantvzw.org/LGM15/day-01/01-state_of_libre_graphics.pdf
 [vid]: https://youtu.be/6OJOvDoyvHM?t=24m38s
 
-<img src='pixlsus-0.png' alt='PIXLS.US Slide 1' style='border: solid 1px gray;' >
-<img src='pixlsus-1.png' alt='PIXLS.US Slide 2' style='border: solid 1px gray;' >
-<img src='pixlsus-2.png' alt='PIXLS.US Slide 3' style='border: solid 1px gray;' >
+---
+
+<img src='pixlsus-0.png' alt='PIXLS.US Slide 1' >
+## Slide 1
+PIXLS.US
+A community for tutorials, workflows, and showcasing high-quality photography using Free/Open Source tools.
+
+---
+
+<img src='pixlsus-1.png' alt='PIXLS.US Slide 2' >
+## Slide 2
+This past year I (Pat David) have been busy designing and building PIXLS.US from scratch.
+The blog is up and running and the first few tutorials are already available.
+A discourse forum has been implemented to support the community as well as act as a comment stream on posts (discuss.pixls.us).
+
+---
+
+<img src='pixlsus-2.png' alt='PIXLS.US Slide 3' >
+## Slide 3
+Soft launch will continue and all are encouraged to visit and participate!
 

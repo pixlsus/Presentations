@@ -1,4 +1,5 @@
 # Libre Graphics Meeting 2015 - _State of the Libre Graphics_
+April 29, Toronto, Canada (University of Toronto)
 
 Delivered by pippin during the _State of the Libre Graphics_ presentation kicking off LGM.
 These were the last set of slides in the presentation ([pdf][] or at [24:38 in the video][vid]).

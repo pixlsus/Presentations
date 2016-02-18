@@ -1,11 +1,13 @@
 # Libre Graphics Meeting 2015 - _State of the Libre Graphics_
 April 29, Toronto, Canada (University of Toronto)
 
+Slides created by [Pat David][].
 Delivered by pippin during the _State of the Libre Graphics_ presentation kicking off LGM.
 These were the last set of slides in the presentation ([pdf][] or at [24:38 in the video][vid]).
 
 [pdf]: http://video.constantvzw.org/LGM15/day-01/01-state_of_libre_graphics.pdf
 [vid]: https://youtu.be/6OJOvDoyvHM?t=24m38s
+[Pat David]: https://github.com/patdavid
 
 ---
 

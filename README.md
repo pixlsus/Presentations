@@ -7,6 +7,8 @@ These are `.svg` files - the default slate blue is the current background to the
 
 [Logos]: ./Logos
 
+![PIXLS URL Logo](https://pixls.us/images/pixls.us-logo-250px.png)
+
 
 ## Upcoming
 List of upcoming presentations/talks

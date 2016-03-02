@@ -5,9 +5,8 @@ Talks, slides, assets for presenting information about free software photography
 Relevant [PIXLS.US logo/image assets][Logos].
 These are `.svg` files - the default slate blue is the current background to the logo on the site, and is: `#778899`.  The background can also be set to white `#FFFFFF` as appropriate for the medium.
 
-![PIXLS svg Logo](./Logos/pixls.us-logo-nourl.svg)
-
 [Logos]: ./Logos
+
 
 ## Upcoming
 List of upcoming presentations/talks

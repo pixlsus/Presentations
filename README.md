@@ -1,6 +1,11 @@
 # Presentations
 Talks, slides, assets for presenting information about free software photography
 
+## [Logos][]
+Relevant PIXLS.US logo/image assets.
+
+[Logos]: ./Logos
+
 ## Upcoming
 List of upcoming presentations/talks
 * [LGM2016 - _PIXLS.US – Building a Freedom Based Photography Community_](/LGM2016_PIXLS.US/)

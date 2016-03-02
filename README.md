@@ -12,6 +12,15 @@ These are `.svg` files - the default slate blue is the current background to the
 </a>
 
 
+## Typography
+The font used for the logo is [Roboto Slab][roboslab] (by [Christian Robertson][robertson]).
+
+[roboslab]: https://www.google.com/fonts/specimen/Roboto+Slab 
+[robertson]:https://plus.google.com/110879635926653430880/about 
+
+I (Pat) have been favoring a combination of 
+
+
 ## Upcoming
 List of upcoming presentations/talks
 * [LGM2016 - _PIXLS.US – Building a Freedom Based Photography Community_](/LGM2016_PIXLS.US/)

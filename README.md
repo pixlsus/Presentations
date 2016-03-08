@@ -18,7 +18,14 @@ The font used for the logo is [Arvo][] (by [Anton Koovit][koovit]).
 [Arvo]: https://www.google.com/fonts/specimen/Arvo 
 [koovit]: https://profiles.google.com/110835161102775862873/about 
 
-I (Pat) have been favoring a combination of fonts lately.  The larger, bolder type is [League Gothic][lg] and the lighter sans-serif font is often [Ostrich Sans][osans]. Both are by [The League of Movable Type][lmt]. Both of these are used in the LGM2015 State of the Libre Graphics presentation slides.
+I (Pat) have been favoring a combination of fonts lately.
+
+
+### [The League of Movable Type][lmt]
+
+![League Gothic](league-gothic-1.png)
+
+The larger, bolder type is [League Gothic][lg] and the lighter sans-serif font is often [Ostrich Sans][osans]. Both of these are used in the LGM2015 State of the Libre Graphics presentation slides.
 
 [lg]:https://www.theleagueofmoveabletype.com/league-gothic 
 [osans]:https://www.theleagueofmoveabletype.com/ostrich-sans 

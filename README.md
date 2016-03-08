@@ -10,7 +10,6 @@ The foreground color for the logo/text is _not_ black.  It's a dark gray: `#3232
 [Logos]: ./Logos
 
 <a href="https://github.com/pixlsus/Presentations/blob/master/Logos/pixls.us-logo-url.svg">
-<img src="https://pixls.us/images/pixls.us-logo-250px.png" alt="PIXLS.US url Logo" width="100" height="100" >
 </a>
 
 

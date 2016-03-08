@@ -5,6 +5,8 @@ Talks, slides, assets for presenting information about free software photography
 Relevant [PIXLS.US logo/image assets][Logos].
 These are `.svg` files - the default slate blue is the current background to the logo on the site, and is: `#778899`.  The background can also be set to white `#FFFFFF` as appropriate for the medium.
 
+The foreground color for the logo/text is _not_ black.  It's a dark gray: `#323232` RGB(50,50,50).
+
 [Logos]: ./Logos
 
 <a href="https://github.com/pixlsus/Presentations/blob/master/Logos/pixls.us-logo-url.svg">

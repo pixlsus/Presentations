@@ -6,20 +6,29 @@ Slides created by [Pat David][].
 
 ---
 
-## Slide 1
+
+Slide 1
+-------
 **PIXLS.US**  
 > _To provide tutorials, workflows and a showcase for high-quality photography using Free/Open Source Software._
 
-### Statistics
-* Launch Date
-* Number of users
-
 ---
 
-## Slide 2
+
+Slide 2
+-------
+
+### Statistics
+* Launch Date
+    * Main Site, August 2014
+    * Discuss, April 2015
+* Number of users
+    * 475
+
 
 ### pixls
 Articles, tutorials, blog posts, news.
+
 
 ### discuss
 The community.  
@@ -34,6 +43,7 @@ A discourse forum has been implemented to support the community as well as act a
 
 
 ---
+
 
 ## Slide 3
 <del>Soft launch will continue and all are encouraged to visit and participate!</del>

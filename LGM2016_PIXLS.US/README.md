@@ -10,3 +10,10 @@ Time: 20min
 This presentation is to be an overview of the efforts to date of building PIXLS.US as a community and site.
 
 It is also an opportunity to highlight new projects being created by community members (PhotoFlow, Filmulator, etc).
+
+
+### Notes
+
+via darix, something we often heard from users about discuss:
+
+> _doesn't feel like a forum, but better_

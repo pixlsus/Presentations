@@ -7,21 +7,35 @@ Slides created by [Pat David][].
 ---
 
 ## Slide 1
-PIXLS.US
-_To provide tutorials, workflows and a showcase for high-quality photography using Free/Open Source Software._
+**PIXLS.US**  
+> _To provide tutorials, workflows and a showcase for high-quality photography using Free/Open Source Software._
 
+### Statistics
+* Launch Date
+* Number of users
 
 ---
 
 ## Slide 2
-This past year I (Pat David) have been busy designing and building PIXLS.US from scratch.
+
+### pixls
+Articles, tutorials, blog posts, news.
+
+### discuss
+The community.  
+Built on discourse.  
+Forum for G'MIC, RawTherapee as well.
+
+
+<del>This past year I (Pat David) have been busy designing and building PIXLS.US from scratch.
 The blog is up and running and the first few tutorials are already available.
 A discourse forum has been implemented to support the community as well as act as a comment stream on posts (discuss.pixls.us).
+</del>
 
 
 ---
 
 ## Slide 3
-Soft launch will continue and all are encouraged to visit and participate!
+<del>Soft launch will continue and all are encouraged to visit and participate!</del>
 
 

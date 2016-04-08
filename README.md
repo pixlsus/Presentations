@@ -53,4 +53,4 @@ List of upcoming presentations/talks
     Delivered by pippin on behalf of Pat David/pixls community.
     * [website]: http://www.libregraphicsmeeting.org/2015/
 
-[lgm2015]: /LGM2015_State_Of
+[lgm2015]: /LGM2015_State_Of/

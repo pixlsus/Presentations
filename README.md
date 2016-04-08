@@ -45,7 +45,7 @@ List of upcoming presentations/talks
     * [proposal](/LGM2016_PIXLS.US/proposal.md)
     * status: accepted
 
-* [LGM2016 - _State of the Libre Graphics_]()
+* [LGM2016 - _State of the Libre Graphics_](/LGM2016_State_Of/)
 
 
 ## Delivered

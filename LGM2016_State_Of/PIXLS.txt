@@ -1,0 +1,31 @@
+
+Slide 1
+-------
+PIXLS.US (pronounced pixels-dot-us)
+A community focused on Free and Open Source Photography.
+
+The community mission statement:
+"To provide tutorials, workflows, and a showcase for high-quality photography using Free Software"
+
+
+Slide 2
+-------
+After kicking the idea around at LGM2014, the main site was built and (soft) launched in August, 2014.
+The forums (Discuss) were finally launched April, 2015.
+
+Since Discuss was launched just over a year ago, it has gained 475 active users.
+
+Several Free Software projects use Discuss as their official forums: G'MIC, RawTherapee, PhotoFlow, and Filmulator.
+
+* The traffic graph shows pageviews by week.
+* The first small spike by G'MIC is when they moved their forums to discuss.
+* The second (very big) spike is when RawTherapee moved their forums over (it's the large spike near the last "E" in "RawTherapee".
+
+
+Slide 3
+-------
+There will be a longer presentation about building the community at 15:40 on Saturday by Pat David.
+
+Come and join fellow photographers and Free Software supporters at PIXLS.US!
+
+

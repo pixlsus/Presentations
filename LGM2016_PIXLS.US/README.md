@@ -25,10 +25,10 @@ via darix, something we often heard from users about discuss:
 * History  
 * State  
 * Proposed Solution  
+* Implementation  
     * Building the site  
     * Building the community  
-* Implementation  
-* Modifications  
+* Modifications(?)  
 * Results  
 * Looking forward (World of Tomorrow!)  
 

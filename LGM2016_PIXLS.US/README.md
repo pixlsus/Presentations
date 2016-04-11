@@ -20,13 +20,13 @@ via darix, something we often heard from users about discuss:
 
 ### Draft Outline
 
-Intro
-Motivation
-History
-Building the site
-Building the community
-Results
-World of tomorrow
+Intro  
+Motivation  
+History  
+Building the site  
+Building the community  
+Results  
+World of tomorrow  
 
 ------
 

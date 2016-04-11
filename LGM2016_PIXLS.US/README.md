@@ -25,6 +25,7 @@ via darix, something we often heard from users about discuss:
 * History  
 * State  
 * Proposed Solution  
+    * Synthesis!!!
 * Implementation  
     * Building the site  
     * Building the community  

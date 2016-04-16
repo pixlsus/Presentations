@@ -38,19 +38,19 @@ The larger, bolder type is [League Gothic][] and the lighter sans-serif font is 
 
 ## Upcoming
 List of upcoming presentations/talks
+
+
+## Delivered
+* [Libre Graphics Meeting 2015 - _State of the Libre Graphics_][/LGM2015_State_Of/]  
+    Delivered by pippin on behalf of Pat David/pixls community.
+    * [website]: http://www.libregraphicsmeeting.org/2015/
+
+* [LGM2016 - _State of the Libre Graphics_](/LGM2016_State_Of/)
+
 * [LGM2016 - _PIXLS.US – Building a Freedom Based Photography Community_](/LGM2016_PIXLS.US/)
     * April 15-18, 2016
     * University of Westminster, Harrow, London
     * [website](http://www.libregraphicsmeeting.org/2016/)
     * [proposal](/LGM2016_PIXLS.US/proposal.md)
-    * status: accepted
+    * status: delivered
 
-* [LGM2016 - _State of the Libre Graphics_](/LGM2016_State_Of/)
-
-
-## Delivered
-* [Libre Graphics Meeting 2015 - _State of the Libre Graphics_][lgm2015]  
-    Delivered by pippin on behalf of Pat David/pixls community.
-    * [website]: http://www.libregraphicsmeeting.org/2015/
-
-[lgm2015]: /LGM2015_State_Of/

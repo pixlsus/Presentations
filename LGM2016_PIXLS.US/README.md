@@ -17,9 +17,103 @@ It is also an opportunity to highlight new projects being created by community m
 ![Slide 1](output/pixls-01.png)
 
 ### Slide 2
+
+![Slide 2](output/pixls-02.png)
+
 ### Slide 3
+
+![Slide 3](output/pixls-03.png)
+
 ### Slide 4
+
+![Slide 4](output/pixls-04.png)
+
 ### Slide 5
+
+![Slide 5](output/pixls-05.png)
+
+### Slide 6
+
+![Slide 6](output/pixls-06.png)
+
+### Slide 7
+
+![Slide 7](output/pixls-07.png)
+
+### Slide 8
+
+![Slide 8](output/pixls-08.png)
+
+### Slide 9
+
+![Slide 9](output/pixls-09.png)
+
+### Slide 10
+
+![Slide 10](output/pixls-10.png)
+
+### Slide 11
+
+![Slide 11](output/pixls-11.png)
+
+### Slide 12
+
+![Slide 12](output/pixls-12.png)
+
+### Slide 13
+
+![Slide 13](output/pixls-13.png)
+
+
+
+### Notes
+
+via darix, something we often heard from users about discuss:
+
+> _doesn't feel like a forum, but better_
+
+
+## Archive Info
+
+### Draft Outline
+
+* Intro  
+* Motivation  
+* History  
+* State  
+* Proposed Solution  
+    * Synthesis!!!
+* Implementation  
+    * Building the site  
+    * Building the community  
+* Modifications(?)  
+* Results  
+* Looking forward (World of Tomorrow!)  
+
+
+------
+
+* motivation
+* history
+    * meetthegimp.org
+    * gimpchat
+* proprietary mostly
+    * kelbyone 
+    * phlearn 
+    * lynda 
+    * dpreview 
+    * ...
+* _if_ FLOSS mentioned, in passing at best
+* tutorial sites (already existed)
+    * spread out over many different sites
+    * quality varies wildly (100 "best method!" clickbait)
+    * often cheap clickbait for monetization
+* tutorial history (blog.patdavid) + contributors
+* building the site
+    * static vs. dynamic cms 
+    * include community!
+        * commenting system non-invasive, tracking
+        * discourse! 
 ### Slide 6
 ### Slide 7
 ### Slide 8

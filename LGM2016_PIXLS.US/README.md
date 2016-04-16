@@ -12,11 +12,31 @@ This presentation is to be an overview of the efforts to date of building PIXLS.
 It is also an opportunity to highlight new projects being created by community members (PhotoFlow, Filmulator, etc).
 
 
+### Slide 1
+
+![Slide 1](output/pixls-01.png)
+
+### Slide 2
+### Slide 3
+### Slide 4
+### Slide 5
+### Slide 6
+### Slide 7
+### Slide 8
+### Slide 9
+### Slide 10
+### Slide 11
+### Slide 12
+
+
 ### Notes
 
 via darix, something we often heard from users about discuss:
 
 > _doesn't feel like a forum, but better_
+
+
+## Archive Info
 
 ### Draft Outline
 

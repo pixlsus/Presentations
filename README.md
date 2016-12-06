@@ -41,9 +41,9 @@ List of upcoming presentations/talks
 
 
 ## Delivered
-* [Libre Graphics Meeting 2015 - _State of the Libre Graphics_][/LGM2015_State_Of/]  
+* [Libre Graphics Meeting 2015 - _State of the Libre Graphics_](/LGM2015_State_Of/)  
     Delivered by pippin on behalf of Pat David/pixls community.
-    * [website]: http://www.libregraphicsmeeting.org/2015/
+    * [website] (http://www.libregraphicsmeeting.org/2015/)
 
 * [LGM2016 - _State of the Libre Graphics_](/LGM2016_State_Of/)
 

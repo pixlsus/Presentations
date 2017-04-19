@@ -17,7 +17,7 @@ Is a community brought together by Free Software
 The goal of the community is:
 > _To provide tutorials, workflows and a showcase for high-quality photography using Free/Open Source Software._
 
-![First Slide](PIXLS-0.png)
+![First Slide](pixls.us-0.png)
 
 
 ---
@@ -37,7 +37,7 @@ Traffic has grown steadily since we started and we have an active and engaged co
 
 We are hoping to help Free Software photography projects with any infrastructure support they may need.
 
-![Second Slide](PIXLS-1.png)
+![Second Slide](pixls.us-1.png)
 
 ---
 
@@ -46,4 +46,4 @@ Slide 3
 -------
 We are always looking forward to meeting new folks, so please come join us and help us grow the community!
 
-![Last Slide](PIXLS-2.png)
+![Last Slide](pixls.us-2.png)

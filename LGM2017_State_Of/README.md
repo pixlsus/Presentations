@@ -2,6 +2,7 @@
 April 20, 2016, Rio de Janeiro, Brazil
 
 Slides created by [Pat David][] with help from Morgan Hardwood, Mimir, andabata, and more.
+
 [Pat David]: https://github.com/patdavid
 
 Image credits:

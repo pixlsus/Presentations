@@ -54,6 +54,9 @@ List of upcoming presentations/talks
     * [proposal](/LGM2016_PIXLS.US/proposal.md)
     * status: delivered
 
+* [Texas Linux Fest](/2016 Texas Linux Fest/)  
+    Delivered by Pat David.
+
 * [LGM2017 - _State of the Libre Graphics_](/LGM2017_State_Of/)
     Delivered by nomis.
     * [website] (http://www.libregraphicsmeeting.org/2017/)

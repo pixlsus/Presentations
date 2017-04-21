@@ -59,4 +59,4 @@ List of upcoming presentations/talks
 
 * [LGM2017 - _State of the Libre Graphics_](/LGM2017_State_Of/)
     Delivered by nomis.
-    * [website] (http://www.libregraphicsmeeting.org/2017/)
+    * [website](http://www.libregraphicsmeeting.org/2017/)

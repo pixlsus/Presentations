@@ -38,6 +38,8 @@ Traffic has grown steadily since we started and we have an active and engaged co
 
 We are hoping to help Free Software photography projects with any infrastructure support they may need.
 
+(This image license CC-BY-SA-NC).
+
 ![Second Slide](pixls.us-1.png)
 
 ---

@@ -1,0 +1,55 @@
+1. Introduction
+[Green Tiger Beetle?]
+[Bare slide (clean white) from LGM2016?]
+"Building a Freedom Based Photography Community"
+I'm Pat David - member of the GIMP team and founder of PIXLS.US
+
+2. Why did I start PIXLS.US?
+Two main reasons - better tutorials/showcase and community (synthesis)
+I'm a member of the GIMP team, and frustrated by the quality of tutorials and results.
+I was friends with many of the projects already (G'MIC, darktable, rawtherapee, more).
+
+3. (Bad GIMP examples?)
+[Bad GIMP slide from LGM 2016?]
+    * Poor quality
+    * Cheap monetization (multiple click-thru pages)
+    * Un-original content
+
+4. Needed a community based on a topic (photography), not a specific software
+Other communitites are often software-focused.
+Problem is - one software may work for many different types of use (painters vs. photogs vs. animators vs. comics)
+Commercial communities include Free Software as an afterthought sub-forum.
+
+
+--- What was the answer? ---
+
+5. Mission Statement!
+[Green Tiger Beetle?]
+Put photography with Free Software front-and-center.
+Combine resources into one location - subject matter experts and other resources (raw.pixls.us)
+
+6. Bring together multiple projects based on *photography*
+(Project Logos/names?)
+darktable, RawTherapee, GIMP, G'MIC, etc.
+
+7. Side effect - smaller/new projects have a home also
+[Fishes/Under the sea?]
+(That they might not have as much otherwise - same footing?)
+    * Rapid Photo Downloader
+    * HDRMerge
+    * Filmulator
+    * PhotoFlow
+
+--- What do we have so far? ---
+
+8. Articles + Blog slide
+[From LGM2016 presentation - Mimir]
+(Possibly add "Tutorials" or at least include them as part of "Articles" when speaking)
+
+9. Status/Stats
+[jonas milky way?]
+(Make sure raw.pixls.us is included)
+
+10. Join us!
+[Bev's Funny Face?]
+[Mimirs train station?]

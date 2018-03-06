@@ -40,37 +40,38 @@ Slide 3
 
 Slide4 
 -------
-![Second Slide](output/pixls-03.png) 
----
-
-Slide4 
--------
 ![Second Slide](output/pixls-04.png) 
+
 ---
 
 Slide 5 
 -------
 ![Second Slide](output/pixls-05.png) 
+
 ---
 
 Slide 6 
 -------
 ![Second Slide](output/pixls-06.png) 
+
 ---
 
 Slide 7 
 -------
 ![Second Slide](output/pixls-07.png) 
+
 ---
 
 Slide 8 
 -------
 ![Second Slide](output/pixls-08.png) 
+
 ---
 
 Slide 9 
 -------
 ![Second Slide](output/pixls-09.png) 
+
 ---
 
 Slide 10

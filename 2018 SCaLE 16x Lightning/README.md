@@ -1,6 +1,8 @@
 # Southern California Linux Expo (SCaLE) 16x
 March 9, 2018, Pasadena, CA (Pasadena Convention Center)
 
+https://www.youtube.com/watch?v=HznsJxgwwoQ
+
 Slides created by [Pat David][] with help from houz, Mimir, andabata, and more.
 [Pat David]: https://github.com/patdavid
 

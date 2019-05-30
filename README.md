@@ -64,3 +64,7 @@ List of upcoming presentations/talks
 * [LGM2019 - _State of the Libre Graphics_](/LGM2019_State_Of/)  
     Delivered by Boud
     * [website](http://www.libregraphicsmeeting.org/2019/)
+
+* [LGM2019 - _Lightning Talk_](/LGM2019_Lightning)  
+    Delivered by Pat David
+    * [website](http://www.libregraphicsmeeting.org/2019/)
